@@ -1,8 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-react-parent-child/node_modules
-react-lessons/node_modules
+/node_modules
 /.pnp
 .pnp.js
 
@@ -22,5 +21,3 @@ react-lessons/node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-google-sheets/api_key.js
